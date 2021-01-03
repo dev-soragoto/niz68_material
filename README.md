@@ -34,8 +34,9 @@ dwg文件采用cad2021绘制, 不确定低版本兼容性
 │   ├── ./plate/非标螺柱.bak
 │   ├── ./plate/非标螺柱.dwg             定位板上螺柱
 │   ├── ./plate/niz68.bak
-│   ├── ./plate/niz68.dwg                定位板
+│   ├── ./plate/niz68.dwg               定位板
 │   └── ./plate/plot.log
+├── ./plate                             手托
 └── ./README.md
 ```
 
